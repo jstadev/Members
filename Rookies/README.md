@@ -327,6 +327,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
 
+  ### Justadev
+<img src="./images/justadev.jpg" width="100"/>
+
+- Name: Peter K.
+- Position: Full Stack Blockchain Developer
+- GitHub Profile: [jstadev](https://github.com/jstadev)
+- Social Media Links:
+  - LinkedIn: [Peter K.](https://www.linkedin.com/in/petros-karamitros-74b05b171/)
+  - Discord: `justadev`
+  - Telegram: `@justa_dev`
+  - E-mail: `justadev09@gmail.com`
+
 
 ## Contributing
 
