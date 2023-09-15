@@ -327,7 +327,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
 
-  ### Justadev
+### Justadev
 <img src="./images/justadev.jpg" width="100"/>
 
 - Name: Peter K.
